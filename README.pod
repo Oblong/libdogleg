@@ -1,10 +1,9 @@
-=head1 NOTICE
+=head1 NAME
 
-This repository is no longer updated. The main tree has moved to
+B<This repository is no longer updated. The main tree has moved to>
 
 L<https://github.com/dkogan/libdogleg>
 
-=head1 NAME
 
 libdogleg - A general purpose sparse optimizer to solve data fitting problems,
 such as sparse bundle adjustment.
